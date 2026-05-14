@@ -23,7 +23,6 @@ I build things that sit at the intersection of engineering and human experience 
 - 🔧 Building a dual-mode portfolio system — [asohail.dev](https://asohail.dev)
 - ♟️ Analyzing 10,000+ chess games for pattern research and bot creation
 - 📖 Reading about gesture-free XR/AR interaction models
-- 🎓 Looking for funded master's / PhD supervision in HCI and systems engineering
 
 #### some things I've built
 
